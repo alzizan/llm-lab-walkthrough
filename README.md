@@ -42,6 +42,7 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [02 — Membongkar prompt sistem](02-bongkar-prompt-sistem/README.md) | Seberapa aman "rahasia" yang disimpan di prompt sistem chatbot? |
 | [03 — AI agent tertipu halaman web](03-agent-tertipu-halaman-web/README.md) | Bisakah hasil web search membuat agent mengirim data rahasia keluar? |
 | [04 — Ukuran model](04-ukuran-model/README.md) | 0,6B sampai 4B: akurasi, kecepatan, dan memori GPU pada 10 soal berjawaban pasti |
+| [05 — Konsistensi jawaban](05-konsistensi-jawaban/README.md) | Pertanyaan sama, jawaban beda? Temperature, variasi kalimat, dan "konsisten tapi salah" |
 
 ## Catatan
 
