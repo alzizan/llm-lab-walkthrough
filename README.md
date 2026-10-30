@@ -48,6 +48,8 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [08 — Berani bilang tidak tahu](08-berani-tidak-tahu/README.md) | Pertanyaan yang "hampir" ada di dokumen, prompt ketat, dan asumsi yang tetap lolos |
 | [09 — 20 pertanyaan emas](09-pertanyaan-emas/README.md) | Evaluasi otomatis sebelum ganti model/prompt: skor sama, jenis kesalahan berbeda |
 | [10 — Isi file model](10-isi-file-model/README.md) | Membongkar file model (GGUF, template, lisensi, sha256) dan kenapa pickle berbahaya |
+| [11 — Biaya token vs GPU](11-biaya-token-vs-gpu/README.md) | Ukur token, waktu, dan daya GPU, lalu bandingkan dengan tagihan API cloud |
+| [12 — Data pribadi di prompt](12-data-pribadi-di-prompt/README.md) | Penyaring regex + model lokal sebelum prompt keluar, dan apa yang tetap lolos (UU PDP Pasal 56) |
 
 ## Catatan
 
