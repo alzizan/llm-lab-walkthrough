@@ -44,6 +44,7 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [04 — Ukuran model](04-ukuran-model/README.md) | 0,6B sampai 4B: akurasi, kecepatan, dan memori GPU pada 10 soal berjawaban pasti |
 | [05 — Konsistensi jawaban](05-konsistensi-jawaban/README.md) | Pertanyaan sama, jawaban beda? Temperature, variasi kalimat, dan "konsisten tapi salah" |
 | [06 — AI berhitung](06-ai-berhitung/README.md) | Menjumlah 30 transaksi sendiri vs menulis SQL dan biarkan database yang menghitung |
+| [07 — RAG salah ambil dokumen](07-rag-salah-ambil/README.md) | Dokumennya ada, jawabannya tetap salah: chunking, peringkat kemiripan, dan dokumen yang sudah dicabut |
 
 ## Catatan
 
