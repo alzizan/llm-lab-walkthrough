@@ -30,6 +30,11 @@ resmi vendor sebelum dipakai.
 
 ![Biaya token vs GPU](../images/11-01-biaya-token-vs-gpu.png)
 
+Angka di atas diukur dengan buku saku versi lengkap (14 aturan) sebagai konteks. Script ini memakai
+versi ringkas, jadi token per permintaan dan waktunya akan berbeda. Contoh run script ini di mesin
+yang sama: 250 token masuk, 955 token keluar, 36,6 s per permintaan. Yang penting caranya: ukur
+dengan permintaan yang mirip pemakaian Anda sendiri.
+
 ## Kesimpulan yang jujur
 
 Per token, API cloud untuk model kecil itu murah. Biaya terbesar on-premise ada di hardware,
