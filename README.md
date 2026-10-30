@@ -47,6 +47,7 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [07 — RAG salah ambil dokumen](07-rag-salah-ambil/README.md) | Dokumennya ada, jawabannya tetap salah: chunking, peringkat kemiripan, dan dokumen yang sudah dicabut |
 | [08 — Berani bilang tidak tahu](08-berani-tidak-tahu/README.md) | Pertanyaan yang "hampir" ada di dokumen, prompt ketat, dan asumsi yang tetap lolos |
 | [09 — 20 pertanyaan emas](09-pertanyaan-emas/README.md) | Evaluasi otomatis sebelum ganti model/prompt: skor sama, jenis kesalahan berbeda |
+| [10 — Isi file model](10-isi-file-model/README.md) | Membongkar file model (GGUF, template, lisensi, sha256) dan kenapa pickle berbahaya |
 
 ## Catatan
 
