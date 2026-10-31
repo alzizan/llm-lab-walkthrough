@@ -54,6 +54,8 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [14 — AI tanpa GPU](14-ai-tanpa-gpu/README.md) | Model yang sama di GPU vs CPU saja: kecepatan menulis, waktu membaca dokumen panjang |
 | [15 — Pencarian makna](15-pencarian-makna/README.md) | Kata kunci vs embedding: "cuti melahirkan" menemukan "bersalin" dan "maternity leave", plus kelemahannya |
 | [16 — AI lupa halaman 50](16-ai-lupa-halaman-50/README.md) | Dokumen 80 halaman: konteks default, dokumen dipotong, konteks diperbesar, dan RAG |
+| [17 — Kuantisasi 4-bit](17-kuantisasi-4bit/README.md) | Model yang sama 4-bit vs 8-bit: 45 soal, memori GPU, dan kemampuan hitungan model kecil |
+| [18 — Indonesia vs Inggris](18-bahasa-indonesia-vs-inggris/README.md) | 12 soal identik dalam dua bahasa ke 4 model lokal |
 | [19 — Invoice ke JSON](19-invoice-ke-json/README.md) | Ekstraksi teks invoice ke JSON dengan schema, lalu validasi aturan bisnis menangkap nota salah hitung |
 | [20 — Shadow AI](20-shadow-ai/README.md) | Membaca log proxy/DNS kantor: siapa memakai chatbot publik, ke mana, dan unggahan besar (tanpa model AI) |
 
