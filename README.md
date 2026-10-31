@@ -52,6 +52,7 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [12 — Data pribadi di prompt](12-data-pribadi-di-prompt/README.md) | Penyaring regex + model lokal sebelum prompt keluar, dan apa yang tetap lolos (UU PDP Pasal 56) |
 | [13 — AI mengutip pasal](13-ai-mengutip-pasal/README.md) | Pertanyaan UU PDP tanpa dokumen vs dengan kutipan teks pasal resmi: nomor pasal karangan yang terdengar meyakinkan |
 | [14 — AI tanpa GPU](14-ai-tanpa-gpu/README.md) | Model yang sama di GPU vs CPU saja: kecepatan menulis, waktu membaca dokumen panjang |
+| [15 — Pencarian makna](15-pencarian-makna/README.md) | Kata kunci vs embedding: "cuti melahirkan" menemukan "bersalin" dan "maternity leave", plus kelemahannya |
 
 ## Catatan
 
