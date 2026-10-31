@@ -53,6 +53,7 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [13 — AI mengutip pasal](13-ai-mengutip-pasal/README.md) | Pertanyaan UU PDP tanpa dokumen vs dengan kutipan teks pasal resmi: nomor pasal karangan yang terdengar meyakinkan |
 | [14 — AI tanpa GPU](14-ai-tanpa-gpu/README.md) | Model yang sama di GPU vs CPU saja: kecepatan menulis, waktu membaca dokumen panjang |
 | [15 — Pencarian makna](15-pencarian-makna/README.md) | Kata kunci vs embedding: "cuti melahirkan" menemukan "bersalin" dan "maternity leave", plus kelemahannya |
+| [16 — AI lupa halaman 50](16-ai-lupa-halaman-50/README.md) | Dokumen 80 halaman: konteks default, dokumen dipotong, konteks diperbesar, dan RAG |
 
 ## Catatan
 
