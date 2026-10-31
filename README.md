@@ -50,6 +50,7 @@ Ganti model: `MODELS="llama3.2:3b,qwen3:4b:think" python ...` (akhiran `:think` 
 | [10 — Isi file model](10-isi-file-model/README.md) | Membongkar file model (GGUF, template, lisensi, sha256) dan kenapa pickle berbahaya |
 | [11 — Biaya token vs GPU](11-biaya-token-vs-gpu/README.md) | Ukur token, waktu, dan daya GPU, lalu bandingkan dengan tagihan API cloud |
 | [12 — Data pribadi di prompt](12-data-pribadi-di-prompt/README.md) | Penyaring regex + model lokal sebelum prompt keluar, dan apa yang tetap lolos (UU PDP Pasal 56) |
+| [13 — AI mengutip pasal](13-ai-mengutip-pasal/README.md) | Pertanyaan UU PDP tanpa dokumen vs dengan kutipan teks pasal resmi: nomor pasal karangan yang terdengar meyakinkan |
 
 ## Catatan
 
