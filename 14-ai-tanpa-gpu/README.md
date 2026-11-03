@@ -1,5 +1,7 @@
 # Lab 14 — AI Tanpa GPU: Realistis di Server Kantor Biasa?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Model yang sama dijalankan dua kali: di GPU, lalu dipaksa memakai CPU saja (opsi Ollama
 `num_gpu: 0`). Dua tugas: meringkas email pendek, dan menjawab satu pertanyaan dari dokumen
 kebijakan fiktif sekitar 5.200 token.

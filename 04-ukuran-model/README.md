@@ -1,5 +1,7 @@
 # Lab 04 — Model 0,6B, 1,7B, 2B, atau 4B: Seberapa "Besar" AI yang Anda Butuhkan?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Sepuluh soal berjawaban pasti, dinilai otomatis (SQL bahkan dieksekusi ke SQLite), dijalankan ke
 beberapa ukuran model. Yang diukur: jumlah benar, waktu, token/detik, ukuran file, dan memori GPU.
 

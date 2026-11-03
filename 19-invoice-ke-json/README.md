@@ -1,5 +1,7 @@
 # Lab 19 — Dari Teks Invoice ke Tabel: Ekstraksi Data Terstruktur
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Lima teks invoice **fiktif** dengan format berbeda (tanggal Indonesia/Inggris, "Rp 13.950.000" vs
 "IDR 48,000,000.00", diskon, uang muka, nota tanpa PPN) diubah jadi JSON: `nomor`, `tanggal`
 (YYYY-MM-DD), `subtotal`, `ppn`, `total`. Lalu hasilnya divalidasi dengan aturan bisnis di kode.

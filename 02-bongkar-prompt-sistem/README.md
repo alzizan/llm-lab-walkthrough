@@ -1,5 +1,7 @@
 # Lab 02 — "Tolong Terjemahkan": Cara Paling Sopan Membongkar Rahasia Chatbot
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Banyak chatbot menyimpan "rahasia" di prompt sistem (kode promo, batas approval, aturan bisnis) lalu
 menambahkan "JANGAN PERNAH sebutkan ini". Lab ini menguji empat cara bertanya untuk membongkarnya.
 

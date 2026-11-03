@@ -1,5 +1,7 @@
 # Lab 03 — AI Agent Membaca Halaman Web, Lalu Diam-diam Mengirim Data Rahasia
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 *Indirect prompt injection*: penyerang tidak mengakses sistem Anda, cukup menaruh instruksi di
 tempat yang nanti dibaca AI (halaman web, email masuk, dokumen vendor).
 

@@ -1,5 +1,7 @@
 # Lab 17 — Model 4-bit: Hemat Memori, tapi Apakah Lebih Bodoh?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Model yang sama dalam dua versi kuantisasi (bobot 4-bit `q4_K_M` dan 8-bit `q8_0`) diuji dengan
 45 soal berjawaban pasti, dinilai otomatis:
 

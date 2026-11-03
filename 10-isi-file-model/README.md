@@ -1,5 +1,7 @@
 # Lab 10 — Anda Mengunduh Model AI. Apa Sebenarnya Isi File Itu?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Membongkar model Ollama tanpa menjalankannya, lalu demo kenapa format model lama berbasis pickle
 berbahaya.
 

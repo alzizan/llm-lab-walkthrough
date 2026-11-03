@@ -1,5 +1,7 @@
 # LLM Lab — Uji Langsung AI Lokal, dengan Data Fiktif
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Serangkaian eksperimen kecil yang bisa Anda jalankan sendiri untuk memahami perilaku model AI
 (LLM) sebelum dipakai di perusahaan: prompt injection, kebocoran prompt, AI agent, ukuran model,
 konsistensi jawaban, dan lainnya.

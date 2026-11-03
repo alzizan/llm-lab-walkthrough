@@ -1,5 +1,7 @@
 # Lab 11 — Biaya AI: Tagihan Token Cloud vs GPU di Server Sendiri
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Ukur sendiri, jangan pakai asumsi: token per permintaan, waktu proses, dan daya GPU dari 20
 permintaan nyata, lalu proyeksikan ke skenario kantor Anda.
 
