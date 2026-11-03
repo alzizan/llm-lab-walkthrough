@@ -1,5 +1,7 @@
 # Lab 18 — Bahasa Indonesia vs Inggris: Apakah AI Lokal Sama Pintarnya?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 12 soal yang sama ditulis dalam Bahasa Indonesia dan Inggris (hitungan, persen, logika, hari,
 pengecualian aturan, sentimen, ekstraksi, geografi, idiom, satuan, format, hitung kata), lalu
 ditanyakan ke 4 model lokal dan dinilai otomatis.

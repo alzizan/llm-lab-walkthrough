@@ -1,5 +1,7 @@
 # Lab 20 — Shadow AI: Mendeteksi Pemakaian Chatbot Publik dari Log Kantor
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Script kecil (Python standard library, tanpa model AI) yang membaca log proxy, firewall, atau DNS
 dan menjawab: siapa yang mengakses layanan AI publik, dari unit mana, ke layanan apa, dan kapan ada
 unggahan besar (indikasi dokumen atau file ditempel).

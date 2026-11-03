@@ -1,5 +1,7 @@
 # Lab 09 — 20 Pertanyaan Emas Sebelum AI Dipakai Seluruh Kantor
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Set evaluasi kecil yang dijalankan otomatis setiap kali Anda mengganti model, prompt, atau dokumen.
 Buku saku karyawan **fiktif** berisi 14 aturan; 20 pertanyaan berjawaban pasti (18 ada di buku
 saku, 2 sengaja tidak ada dan harus dijawab "tidak ada").

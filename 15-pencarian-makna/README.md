@@ -1,5 +1,7 @@
 # Lab 15 — "Cuti Melahirkan" Menemukan "Maternity Leave": Mencari Makna, Bukan Kata
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Dua cara mencari di 12 potongan kebijakan fiktif (campuran Bahasa Indonesia dan Inggris):
 
 1. **Kata kunci**: dokumen dengan kata yang paling banyak sama dengan pertanyaan (kata umum diabaikan)

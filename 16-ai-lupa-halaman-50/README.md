@@ -1,5 +1,7 @@
 # Lab 16 — AI "Lupa" Isi Halaman 50 dari Dokumen 80 Halaman
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Dokumen pedoman **fiktif** 80 halaman (±18.900 token). Di satu halaman disisipkan kalimat unik:
 "Kode darurat untuk membuka ruang server lantai 7 adalah MERPATI-4471". Lalu ditanyakan dengan empat cara.
 

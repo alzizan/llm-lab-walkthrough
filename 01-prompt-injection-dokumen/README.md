@@ -1,5 +1,7 @@
 # Lab 01 — Satu Kalimat Tersembunyi di PDF Bisa "Membajak" AI Anda
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Chatbot HR menjawab dari dokumen knowledge base. Di dokumen itu ada paragraf tersembunyi (teks putih
 1pt) yang memerintahkan AI meminta NIK dan password karyawan. Apakah model patuh? Apakah aturan di
 prompt sistem cukup untuk mencegahnya?

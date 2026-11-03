@@ -1,5 +1,7 @@
 # Lab 07 — Dokumennya Ada, Jawabannya Tetap Salah: Kegagalan RAG yang Jarang Dibahas
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Chatbot dokumen (RAG) bekerja dalam tiga langkah: potong dokumen → cari potongan paling "mirip"
 dengan pertanyaan → kirim beberapa potongan teratas ke model. Lab ini memperlihatkan bagaimana
 langkah pertama dan kedua bisa membuat jawaban salah, walau modelnya tidak berhalusinasi.

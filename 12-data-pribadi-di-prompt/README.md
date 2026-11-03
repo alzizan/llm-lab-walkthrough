@@ -1,5 +1,7 @@
 # Lab 12 — Menempel Data Pelanggan ke Chatbot Luar Negeri = Transfer Data Lintas Batas?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Satu prompt "buatkan surat penagihan" bisa berisi NIK, nomor HP, alamat, utang, dan diagnosis
 penyakit. Kalau dikirim ke layanan AI yang servernya di luar negeri, itu transfer data pribadi ke
 luar wilayah hukum Indonesia (UU 27/2022 Pasal 56). Lab ini mencoba dua lapis penyaring sebelum

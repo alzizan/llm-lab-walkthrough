@@ -1,5 +1,7 @@
 # Lab 13 — AI Mengutip Pasal dengan Yakin. Pasalnya Salah.
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Enam pertanyaan tentang UU 27/2022 (Pelindungan Data Pribadi) ditanyakan ke model lokal dua kali:
 **tanpa dokumen**, lalu **dengan kutipan teks pasal** (Pasal 4, 46, 53, 57, 67) di prompt sistem.
 

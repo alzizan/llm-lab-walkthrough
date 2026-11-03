@@ -1,5 +1,7 @@
 # Lab 08 — Melatih AI Berani Bilang "Saya Tidak Tahu"
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Dokumen kebijakan benefit **fiktif** hanya berisi empat baris (rawat jalan, rawat inap, kacamata,
 melahirkan normal). Kita bertanya hal yang ada, yang jelas tidak ada, dan yang "hampir" ada, dengan
 dua versi prompt sistem.

@@ -1,5 +1,7 @@
 # Lab 05 — Pertanyaan Sama, Jawaban Beda: Kenapa AI Tidak Konsisten?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Tiga hal yang sering tercampur:
 
 - **Konsisten**: jawaban sama tiap kali ditanya

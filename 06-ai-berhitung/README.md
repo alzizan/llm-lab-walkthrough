@@ -1,5 +1,7 @@
 # Lab 06 — AI Pintar Menulis, Payah Berhitung?
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Minta model menjumlah 30 transaksi (fiktif), bandingkan dengan jawaban yang dihitung komputer.
 Lalu bandingkan dengan jalur lain: model menulis SQL, database yang menghitung.
 
